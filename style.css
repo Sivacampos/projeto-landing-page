@@ -149,3 +149,14 @@ button:hover{
     box-shadow: 0px 15px 20px #41657584;
     transition-duration: 0.5s;
 }
+
+#produzido{
+    background-color: #383838;
+    text-align: center;
+}
+
+#texto-producao{
+    color: white;
+    font-size: 15px;
+    padding: 7px;
+}
